@@ -213,6 +213,17 @@ http://localhost:8501
 
 ---
 
+##Screenshots
+<img width="1848" height="967" alt="image" src="https://github.com/user-attachments/assets/44e07b05-f6b7-4131-906b-2917823bb874" />
+
+<img width="1847" height="961" alt="image" src="https://github.com/user-attachments/assets/5ced9fe7-a07b-4cdd-9fd5-57c2e7d3d3fa" />
+
+<img width="1853" height="971" alt="image" src="https://github.com/user-attachments/assets/0540f1a6-c0e1-4744-9790-ff3e86a1f126" />
+
+<img width="1842" height="901" alt="image" src="https://github.com/user-attachments/assets/02abafb8-528b-48bf-b943-d58f1202b932" />
+
+---
+
 ## ⭐ Support
 
 If you like this project, consider giving it a ⭐ on GitHub!
